@@ -23,7 +23,7 @@ Oh, I almost forgot, it has LiPo battery charging!
 |PAM8302AAD speaker amplifier|$0.21|https://www.lcsc.com/product-detail/C112137.html?s_z=n_q_pam8302aad&spm=wm.ssy.bg.0.xh&lcsc_vid=E1ENUAdXFlVdBAVSQFBZUQJQRFEMVgIFEgVcAgBRQgQxVlNRQFNbUV1SQFJbUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlFZUVNXWQkaCgg%3D|
 |BQ25185 battery charging IC|$1.66|https://www.lcsc.com/product-detail/C19725033.html?s_z=s_p_BQ25185DLHR&spm=wm.ssy.bg.0.xh&lcsc_vid=E1ENUAdXFlVdBAVSQFBZUQJQRFEMVgIFEgVcAgBRQgQxVlNRQFNbUV1fQ1RWVzsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlBcVldRWQkaCgg%3D|
 |SMD tactile switch, 6x6mm|$0.03|https://www.lcsc.com/product-detail/C49234152.html?s_z=n_q_5x5mm%2520button&spm=wm.ssy.bg.0.xh&lcsc_vid=RlQIVAdXEVQKUwJREwNdVlQAEQNaUAUCTlNbAgdURlMxVlNRQFJcUFFUTlhdUDsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D|
-|Pin headers|$0.38|https://www.lcsc.com/product-detail/C2938424.html?s_z=n_q_pin%2520headers%252001x20&spm=wm.ssy.bg.0.xh&lcsc_vid=RlQIVAdXEVQKUwJREwNdVlQAEQNaUAUCTlNbAgdURlMxVlNRQFJcUFJeTlldUzsOAxUeFF5JWBYZEEoKFBINSQcJGk4dAgUUFAk%3D|
+|Pin headers|$0.38|https://www.lcsc.com/product-detail/C2938459.html?s_z=h_q_pin%2520headers%252001x20&spm=wm.ssy.bg.1.xh&lcsc_vid=RlQIVAdXEVQKUwJREwNdVlQAEQNaUAUCTlNbAgdURlMxVlNRQFJcX1dVQFdZVTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRVhdX1BUQ08GEwkK|
 |PCB|$0.42|https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=21&stencilLength=54&stencilCounts=5&plateType=1|
 |Stencil|$3.05|https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=21&stencilLength=54&stencilCounts=5&plateType=1|
 
@@ -31,4 +31,4 @@ Total: $10.81 ($7.76 w/o stencil)
 
 # Notes
 
-I have a different BOM on the actual Stasis project since I already have some of the parts.
+Have fun!
